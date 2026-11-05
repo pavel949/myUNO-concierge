@@ -1,3 +1,7 @@
+# PILOT SCOPE — subordinate to Ultimate Product PRD
+
+This file describes the **first Layantara/condominium pilot only**. The full intended product is defined in [ULTIMATE_PRODUCT_PRD.md](ULTIMATE_PRODUCT_PRD.md). Do not treat MVP exclusions as permanent product exclusions.
+
 # myUNO Concierge — Master PRD
 Version: 1.0 canonical for **myUNO Concierge** | 2026-11-05 | Status: approved direction, implementation pending
 
